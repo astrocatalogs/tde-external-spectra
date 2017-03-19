@@ -1,0 +1,61 @@
+{
+	"dec":"+32:53:37.51",
+	"discmagfilter":"50",
+	"discoverer":null,
+	"discovererid":"11756",
+	"discoverydate":"2016-08-29 10:09:07",
+	"discoverymag":"17.2273",
+	"end_prop_period":"2016-08-31",
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"iPTF16fnl",
+	"isTNS_AT":"1",
+	"name":"TDE",
+	"name_prefix":"AT",
+	"object_type":{
+		"id":"120",
+		"name":null
+	},
+	"objname":"2016fnl",
+	"public":"1",
+	"ra":"00:29:57.04",
+	"redshift":"0.016328",
+	"source_group":{
+		"group_name":"iPTF",
+		"groupid":"2"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/iPTF/tns_2016fnl_2016-08-30_05-18-10_P60_SED-Machine_iPTF.ascii",
+			"assoc_groups":[
+				{
+					"id":"2",
+					"name":"iPTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"900",
+			"fitsfile":"",
+			"instrument":{
+				"id":"149",
+				"name":"SED-Machine"
+			},
+			"jd":2457630,
+			"obsdate":"2016-08-30 05:18:10",
+			"observer":"SEDM robot",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":"2",
+				"name":"iPTF"
+			},
+			"telescope":{
+				"id":"2",
+				"name":"P60"
+			}
+		}
+	],
+	"type":"120"
+}
