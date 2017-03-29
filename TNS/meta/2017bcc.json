@@ -27,7 +27,7 @@
 	"sourceid":"2",
 	"spectra":[
 		{
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017bcc_2017-02-20_05-51-55_ESO-NTT_EFOSC2-NTT.asci",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/PESSTO/tns_2017bcc_2017-02-20_05-51-55_ESO-NTT_EFOSC2-NTT.asci",
 			"assoc_groups":[
 				{
 					"id":"1",
@@ -36,7 +36,7 @@
 			],
 			"end_prop_period":null,
 			"exptime":"600",
-			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017bcc_2017-02-20_05-51-55_ESO-NTT_EFOSC2-NTT.fits",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/PESSTO/tns_2017bcc_2017-02-20_05-51-55_ESO-NTT_EFOSC2-NTT.fits",
 			"instrument":{
 				"id":"31",
 				"name":"EFOSC2-NTT"
